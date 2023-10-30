@@ -1,3 +1,2 @@
 # tutorial_layout
-
-A new Flutter project.
+nuevo, proyecto para clase
